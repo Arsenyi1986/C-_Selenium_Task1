@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nERuo9K+cnE=",
+  "success": true,
+  "projectFilePath": "/home/artorias/git_repo_folder/C#_Selenium_Task1/Pages/Pages.csproj",
+  "expectedPackageFiles": [
+    "/home/artorias/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "/home/artorias/.nuget/packages/selenium.support/4.25.0/selenium.support.4.25.0.nupkg.sha512",
+    "/home/artorias/.nuget/packages/selenium.webdriver/4.25.0/selenium.webdriver.4.25.0.nupkg.sha512"
+  ],
+  "logs": []
+}
